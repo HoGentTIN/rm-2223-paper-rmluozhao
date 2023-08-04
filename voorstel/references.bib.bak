@@ -42,11 +42,4 @@
   url    = {https://blog.logrocket.com/blazor-vs-react-minimize-javascript/#communication-between-components},
 }
 
-@Online{Yegulalp2022,
-  author = {Yegulalp, Serdar},
-  date   = {2022-05-27},
-  title  = {What is WebAssembly? The next-generation web platform explained},
-  url    = {https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}
